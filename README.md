@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Atharva A Kulkarni
--  I know basics of HTML, CSS, Python and C++.
+-  Passionate Developer.
+-  Basic HTML, CSS, JavaScript, React JS, Node JS, MySQL, MongoDB
